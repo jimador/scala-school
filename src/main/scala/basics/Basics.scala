@@ -3,7 +3,7 @@ package basics
 /**
   * Created by james on 5/17/2016.
   */
-object Main {
+object Basics {
 /*
   evaluations can be tested in the sbt console!
  */
