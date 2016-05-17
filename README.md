@@ -1,16 +1,12 @@
 
 
-#  **Scala Musings** <img align=right src="https://raw.githubusercontent.com/jimador/scala-musings/master/assets/scala-logo-256.png">
+#  **Scala School from Twitter**
+*From ∅ to Distributed Service*
 
-A playground to dive into the Scala programming language
+###### A submodule of [Scala Musings] [ScalaMusings]
 
-**Tutorials from:**
-* [Scala Docs] [ScalaDocs]
+### *Tutorials from:*
 * [Scala School] [ScalaSchool]
-* [Tutorials Point] [TutorialsPoint]
-* [Artima] [Artima]
 
-[ScalaDocs]: http://docs.scala-lang.org/tutorials/?_ga=1.120792526.7385158.1462321642
 [ScalaSchool]: http://twitter.github.io/scala_school/
-[TutorialsPoint]: http://www.tutorialspoint.com/scala/index.htm
-[Artima]: http://www.artima.com/pins1ed/
+[ScalaMusings]: https://github.com/jimador/scala-musings
