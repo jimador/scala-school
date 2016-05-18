@@ -59,6 +59,7 @@ object CurryingVsPartialApplication {
   case class PhoneExt(name: String, ext: Int)
   val extensions = List(PhoneExt("steve", 100), PhoneExt("robey", 200))
 
+  //a filter takes a function, partial function is a subtype of function.
   extensions.filter { case PhoneExt(name, extension) => extension < 200 }
   //res0: List[PhoneExt] = List(PhoneExt(steve,100))
 }
